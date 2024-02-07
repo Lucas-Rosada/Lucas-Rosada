@@ -32,3 +32,7 @@
 </div>
 
 ###
+
+> Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam. 
+
+Salmos 23:4
