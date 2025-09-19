@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on python<br>🤝 I’m looking for help with machine learning<br>🌱 I’m currently learning machine learning
+🔭 I’m currently working on Front-end Development <br>
+🤝 I’m looking for help with UI/UX best practices <br>
+🌱 I’m currently learning modern JavaScript frameworks
 
 
 # 💻 Tech Stack:
