@@ -1,9 +1,11 @@
 <!-- Banner hospedado no Postimg; clique na imagem para abrir a página original. -->
 <div align="center">
 
-<a href="./github-profile-assets/ghostbusters-pixel-rounded.gif">
-  <img src="./github-profile-assets/ghostbusters-pixel-rounded.gif" alt="Lucas Rosada — Ghostbusters em pixel art animada" width="600" />
-</a>
+<div align="center">
+  <img src="./github-profile-assets/ghostbusters-pixel.gif"
+       alt="Lucas Rosada — Ghostbusters"
+       width="600" />
+</div>
 
 **Desenvolvimento front-end · JavaScript · UI/UX**
 
