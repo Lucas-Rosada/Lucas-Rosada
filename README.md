@@ -4,7 +4,7 @@
 <img src="./github-profile-assets/arcade-header.svg" width="800" alt="Rosada / Ghostbusters — modo história, 1984" />
 
 <a href="https://github.com/Lucas-Rosada?tab=repositories">
-  <img src="./github-profile-assets/ghostbusters-pixel-rounded.gif" width="640" alt="Lucas Rosada: Ecto-1, Slimer e armadilha animados em pixel art" />
+  <img src="./github-profile-assets/ghostbusters-pixel.gif" width="640" alt="Lucas Rosada: Ecto-1, Slimer e armadilha animados em pixel art" />
 </a>
 
 **Tem alguma coisa estranha no seu console?**
