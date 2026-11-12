@@ -4,7 +4,8 @@
 <div align="center">
   <img src="./github-profile-assets/ghostbusters-pixel.gif"
        alt="Lucas Rosada — Ghostbusters"
-       width="600" />
+       width="500"
+       style="border-radius: 24px;" />
 </div>
 
 **Desenvolvimento front-end · JavaScript · UI/UX**
