@@ -44,13 +44,3 @@ Sou **Lucas Rosada** e trabalho com **desenvolvimento front-end**. Atualmente, e
 | Ferramentas | Git, GitHub Pages, Anaconda e Nodemon |
 
 </details>
-
-<details>
-<summary>🎬 Créditos da missão</summary>
-
-Identidade de fã inspirada em **Ghostbusters (1984)**. Arte em pixel art gerada para este perfil; painéis em SVG personalizados. Os painéis apresentam informações do perfil, sem pontuações ou métricas fictícias.
-
-- [Ghostbusters (1984) — Sony Pictures](https://www.sonypictures.com/movies/ghostbusters)
-- [Acervo visual Sony/Ghost Corps — Spook Central](https://www.spook-central.com/2017/02/20/official-ghostbusters-creative-assets)
-
-</details>
